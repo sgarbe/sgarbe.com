@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "sgarbe.com",
+  "Id": "ddcd7b2f-33b8-4bc7-aa86-069af6cf59b2"
+}
